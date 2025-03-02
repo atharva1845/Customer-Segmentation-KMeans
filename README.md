@@ -36,7 +36,7 @@ The dataset used in this project is the **Mall Customers Dataset**. It contains:
 
 ### 🔹 1️⃣ Clone the Repository  
 ```sh
-git clone https://github.com/your-username/Customer-Segmentation-KMeans.git
+git clone https://github.com/atharva1845/Customer-Segmentation-KMeans.git
 cd Customer-Segmentation-KMeans
 ```
 🔹 2️⃣ Install Dependencies
